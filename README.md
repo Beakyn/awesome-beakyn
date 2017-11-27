@@ -9,4 +9,4 @@ A curated list of really nice things we do at Beakyn, from events to open-source
 ## Creative Fridays
 
 - Creative Friday 01 - 24/11/2017:
-  - [Example](https://www.google.com)
+  - [Web Assembly Research](https://github.com/Beakyn/awesome-beakyn/issues/1)
